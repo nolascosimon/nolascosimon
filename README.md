@@ -21,4 +21,6 @@ I am a passionate IT student at XU College, driven by a curiosity for technology
 - 🌟 Completed Git & GitHub Setup 2024
 - 🔭 I’m currently working on my final API project.
 
+Fun Fact: I once debugged a bug in my project for 2 hours only to realize my only problem was forgetting a semicolon.
+
 Thanks for stopping by!
